@@ -1,0 +1,50 @@
+.login-banner {
+    padding: 60px;
+
+}
+
+.sign-container {
+    padding: 80px;
+    background-color: #f2f8FF;
+    background-image: url('../../Assets/Group 2.svg');
+    background-size: 500px 300px;
+    background-repeat: no-repeat;
+    background-position: top right;
+    height: 100% !important;
+
+}
+
+.login-banner p {
+    padding: 20px;
+}
+
+.login-banner h5 {
+    padding: 20px;
+}
+
+.login-card {
+    position: relative;
+    border-width: 0ch !important;
+    background-color: transparent;
+    padding: 10px;
+    margin-bottom: 10%;
+}
+
+.login-card .textfield:active {
+    border-top: none !important;
+    outline: none !important;
+    border-color: red !important;
+}
+
+.sign-button .btn {
+    border-radius: 200px !important;
+    background-color: #1572E8;
+}
+
+a {
+    text-decoration: none;
+}
+
+.field {
+    margin-left: 25%;
+}

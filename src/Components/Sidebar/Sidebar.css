@@ -1,0 +1,17 @@
+.links {
+    text-decoration: none !important;
+    color: 'black' !important;
+}
+
+.sidebar {
+    padding: 0% !important;
+    margin: 0% !important;
+    z-index: 1000 !important;
+    position: relative;
+}
+
+
+
+.sidebar-logo {
+    height: 30px !important;
+}
