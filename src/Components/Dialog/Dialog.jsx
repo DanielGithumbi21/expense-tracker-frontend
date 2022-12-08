@@ -20,7 +20,7 @@ export default function AlertDialog({ handleClose, open, handleDelete, title }) 
                 </DialogTitle>
                 <DialogContent>
                     <DialogContentText className='text-center' id="alert-dialog-description">
-                        This step cannot be reversed once you do it
+                        This step cannot be reversed once done
                     </DialogContentText>
                 </DialogContent>
                 <div className="text-center" style={{ marginRight: "150px" }}>
